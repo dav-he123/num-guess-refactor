@@ -28,7 +28,7 @@ var displayArea = document.querySelector(".display");
 var submitInputs = document.querySelectorAll(".submit-inputs");
 var inputTest = document.querySelectorAll("input");
 var minRange = 1;
-var maxRange = 100;
+var maxRange = 100; // include comment for maxmimum range
 var randomNumber;
 var guessCount = 0;
 
